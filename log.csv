@@ -3,3 +3,4 @@ id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code
 1;mapping;requests;1597303869.3623884;-0.31938982009887695;https://job.jobnet.dk/CV/FindWork/Search;https://job.jobnet.dk/CV/FindWork/Search;103505;200;True;
 2;mapping;requests;1597306655.28148;-0.2564969062805176;https://job.jobnet.dk/CV/FindWork/Search;https://job.jobnet.dk/CV/FindWork/Search;103217;200;True;
 3;mapping;requests;1597307580.2122269;-0.27127742767333984;https://job.jobnet.dk/CV/FindWork/Search;https://job.jobnet.dk/CV/FindWork/Search;103899;200;True;
+4;mapping;requests;1597398134.763979;-0.29737162590026855;https://job.jobnet.dk/CV/FindWork/Search;https://job.jobnet.dk/CV/FindWork/Search;104359;200;True;
